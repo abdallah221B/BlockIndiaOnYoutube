@@ -1,0 +1,11 @@
+
+  {
+    "name": "BlockIndia",
+    "version": "1.0.0.1",
+    "description": "This Extention Blocks most content from India that Most learners find irritating or rather nerve-wracking.",
+    "manifest_version": 2,
+    "permissions": ["tabs"],
+    "background": {
+      "scripts": ["background.js"]
+    }
+  }
